@@ -1,4 +1,6 @@
-projects/02_prompt-primer_reducer/primers/*.yml
+# Ignore everything in projects/02_prompt-primer_reducer/primers except example.ppo file
+projects/02_prompt-primer_reducer/primers/*
+!projects/02_prompt-primer_reducer/primers/example.yml
 projects/02_prompt-primer_reducer/reduced_primers/*.ppo
 
 # Byte-compiled / optimized / DLL files
