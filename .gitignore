@@ -1,3 +1,7 @@
+*.ppo
+# primers
+./projects/02_project/primers/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
