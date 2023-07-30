@@ -1,7 +1,8 @@
-# Ignore everything in projects/02_prompt-primer_reducer/primers except example.ppo file
-projects/02_prompt-primer_reducer/primers/*
+# Ignore everything in primers and reduced_primers except example files
+projects/02_prompt-primer_reducer/primers/*.yml
 !projects/02_prompt-primer_reducer/primers/example.yml
 projects/02_prompt-primer_reducer/reduced_primers/*.ppo
+!projects/02_prompt-primer_reducer/reduced_primers/example.ppo
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
