@@ -1,6 +1,6 @@
 # Python Jupyter Experiments
 
-![Cover Image](./attachments/cover_image)
+![Cover Image](./attachments/cover_image.png)
 
 ## Introduction
 
