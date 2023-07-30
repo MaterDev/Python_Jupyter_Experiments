@@ -1,6 +1,5 @@
-*.ppo
-# primers
-./projects/02_project/primers/*
+projects/02_prompt-primer_reducer/primers
+projects/02_prompt-primer_reducer/reduced_primers/prime_tutor.ppo
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
