@@ -6,10 +6,12 @@
 
 Welcome to my repository of experimental notebooks! This repository is home to a variety of projects, each housed within their own unique folders under the `/projects` directory.
 
-> These projects are related t:
+> These projects are related to:
+>
 > - Data Science
 > - Statistics
 > - Python Development
+> - Prompt Engineering
 > - Etc
 
 ## Contents
@@ -17,6 +19,13 @@ Welcome to my repository of experimental notebooks! This repository is home to a
 This repository contains several projects, each within their respective folders. These projects are experimental in nature, and are the fruit of my ongoing learning and exploration in software development, data science, machine learning, and more.
 
 To get started, simply navigate to the `/projects` directory and choose a folder to explore. The folders are enumerated for your convenience.
+
+### Projects
+
+- [Pokemon Data (Pokedata)](./projects/01_poke_data/)
+  - Data Science explorations of pokemon stats.
+- [Prompt Primer Reducer](./projects/02_prompt-primer_reducer/)
+  - Function that helps reduce the file-size and *possibly* the token usage for primers used in **ChatGPT** prompts.
 
 ## Updates
 
