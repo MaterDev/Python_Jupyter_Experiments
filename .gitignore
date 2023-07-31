@@ -1,3 +1,5 @@
+.DS_Store
+
 # Ignore everything in primers and reduced_primers except example files
 projects/02_prompt-primer_reducer/primers/*.yml
 !projects/02_prompt-primer_reducer/primers/example.yml
