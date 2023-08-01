@@ -1,4 +1,5 @@
 .DS_Store
+*.csv
 
 # Ignore everything in primers and reduced_primers except example files
 projects/02_prompt-primer_reducer/primers/*.yml
