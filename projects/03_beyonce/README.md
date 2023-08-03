@@ -31,9 +31,9 @@ To get started with the project, check out the Jupyter notebook `lyrical_analysi
 
 Contributions, ideas, and suggestions are welcome! This project is a space for creative exploration and all input is valuable.
 
-## Data
+## Data/Legal
 
-> Data resources are cited in the notebook, and the code is available for anyone to use and modify.
+> Data resources are cited where used, but redacted from this repository for privacy reasons. If you would like to understand how this dataset was procured please contact: [Hillary Osei](https://www.kaggle.com/hillaryosei), the original publisher of this dataset. *I'm not affiliated with the publisher of this dataset, but found it very useful for educational purposes.*
 
 ## Conclusion
 
