@@ -33,7 +33,7 @@ Contributions, ideas, and suggestions are welcome! This project is a space for c
 
 ## Data/Legal
 
-> *Data resources used in this project are cited where applicable, but have been redacted from this repository to so as not to infringe upon The Queen herself. If you would like to learn more about how this dataset was procured, please contact [Hillary Osei](https://www.kaggle.com/hillaryosei), the original publisher of this dataset. I am not affiliated with the publisher, but found the dataset to be a valuable resource for educational purposes. I appreciate the opportunity to learn from this data and are committed to respecting the privacy of those involved.*
+> *Data resources used in this project are cited where applicable, but have been redacted from this repository to so as not to infringe upon The Queen herself. If you would like to learn more about how this dataset was procured, please contact [Hillary Osei](https://www.kaggle.com/hillaryosei), the original publisher of this dataset. I am not affiliated with the publisher, but found the dataset to be a valuable resource for educational purposes. I appreciate the opportunity to learn from this data and am committed to respecting the privacy of the artist.*
 
 ## Conclusion
 
