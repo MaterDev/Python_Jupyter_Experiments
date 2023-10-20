@@ -20,13 +20,6 @@ This repository contains several projects, each within their respective folders.
 
 To get started, simply navigate to the `/projects` directory and choose a folder to explore. The folders are enumerated for your convenience.
 
-### Projects
-
-- [Pokemon Data (Pokedata)](./projects/01_poke_data/)
-  - Data Science explorations of pokemon stats.
-- [Prompt Primer Reducer](./projects/02_prompt-primer_reducer/)
-  - Function that helps reduce the file-size and *possibly* the token usage for primers used in **ChatGPT** prompts.
-
 ## Updates
 
 As this repository is based on ongoing learning and experimentation, updates will be made occasionally. These could range from minor adjustments or additions to significant overhauls or new projects.
