@@ -69,3 +69,32 @@ try:
         pass
 except KeyboardInterrupt:
     pass  # Exit on Ctrl + C
+
+# ------------------------
+
+"""
+    👉🏾 'sounddevice' library offers more control over the buffer size and other playback parameters compared to pyaudio.
+    
+    In this example, the blocksize parameter is used to specify the buffer size when calling sd.play(). You can adjust the buffer_size variable to different values to see if it helps resolve the cracking and inconsistencies you're hearing.
+    
+    ```
+    import numpy as np
+    import sounddevice as sd
+    import threading
+
+    def play_tone(frequency):
+        rate = 44100    # samples per second
+        T = 1.0         # sample duration (seconds)
+        t = np.linspace(0, T, int(T*rate), False)  # time variable
+        y = 0.5*np.sin(2*np.pi*frequency*t)  # waveform
+
+        # Use a larger buffer size to prevent buffer underruns
+        buffer_size = 2048  # Adjust this value as needed
+
+        while not exit_signal.is_set():
+            sd.play(y, samplerate=rate, loop=True, blocksize=buffer_size)
+            sd.wait()
+
+    # ... rest of your code ...
+    ```
+"""
